@@ -2,7 +2,7 @@
 
 ## local machine setup
 
-Setting up pythong environments is painful. Here's what I've got 
+Setting up python environments is painful. Here's what I've got 
 
 - Install Miniconda to help manage pythong environments 
 - Run `conda create --name virtualEnv1 python==3.11`
