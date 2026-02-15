@@ -53,3 +53,5 @@ Number of GPUs: 1
 ```
 
 We will be trying out multi-threaded GPUs eventually, but 1 suffices for now.
+
+While collab is nice, to run multi-gpu use collab
