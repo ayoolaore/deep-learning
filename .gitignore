@@ -2,3 +2,5 @@ e104*
 3_optimizers.ipynb
 *mlartifacts/
 **/data
+*datasets/
+mlflow.db
