@@ -3,3 +3,6 @@ scikit-learn
 matplotlib
 numpy
 torch
+tweepy
+pandas
+openpyxl

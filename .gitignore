@@ -4,3 +4,5 @@ e104*
 **/data
 *datasets/
 mlflow.db
+.DS_Store
+collect-data.py
