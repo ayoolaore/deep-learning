@@ -55,3 +55,8 @@ Number of GPUs: 1
 We will be trying out multi-threaded GPUs eventually, but 1 suffices for now.
 
 While collab is nice, to run multi-gpu use collab
+
+
+### Serving a model using mlflow 
+
+mlflow models serve -m "models:<saved_model>@final" -p 5000
