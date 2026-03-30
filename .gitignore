@@ -1,4 +1,4 @@
-e104*
+
 3_optimizers.ipynb
 *mlartifacts/
 **/data
@@ -6,3 +6,8 @@ e104*
 mlflow.db
 .DS_Store
 collect-data.py
+*.wav
+*.tar.bz2
+LJSpeech*
+phoneme_cache/
+run-*
